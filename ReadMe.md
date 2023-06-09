@@ -1,3 +1,13 @@
+
+
+![cover-thompson](https://github.com/vaghamashi/vaghamashi/assets/111480132/4a9ddd18-929d-42c6-9681-e408cf579dbb)
+
+
+
+
+
+
+
 # 💫 About Me:
 # 💫 About Me:<br>🔭 I’m currently working on Android Project<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Android Development<br>💬 Ask me about<br>⚡ Fun fact
 
