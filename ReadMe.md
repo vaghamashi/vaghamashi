@@ -1,7 +1,7 @@
-                                                          𝐇𝐢 👋𝐢 𝐚𝐦 𝐑𝐚𝐯𝐢 𝐕𝐚𝐠𝐡𝐚𝐦𝐚𝐬𝐡𝐢
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Harsh Malaviya</h1>
+                                                
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ravi vaghamashi </h1>
 <h3 align="center">MCA | Professional Android Developer | PHP Developer </h3>
-# 💫 About Me:<br>🔭 I’m currently working on Android Project<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Android Development<br>💬 Ask me about<br>⚡ Fun fact
+
 
 
 ## 🌐 Socials:
